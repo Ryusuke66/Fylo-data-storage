@@ -188,7 +188,7 @@ body {
 }
 .attribution a { color: hsl(228, 51%, 54%); }
 
-@media (max-width: 375px) {
+@media (max-width: 768px) {
     .desktop {
         display: none;
     }
